@@ -1,5 +1,5 @@
 Skin Disease Predictor (DeltaHacks)
-A hackathon project that predicts common skin conditions from images and serves results through a simple web app. I built the model/backend and integrated a teammate’s Next.js frontend so it runs as one project.
+A hackathon project that predicts common skin conditions from images and serves results through a simple web app. 
 
 What it does
 Upload an image → the model returns the predicted condition (e.g., wart, molluscum, etc.).
