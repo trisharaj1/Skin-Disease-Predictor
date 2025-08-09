@@ -54,3 +54,11 @@ node_modules/
 .DS_Store
 data/
 .env
+
+# repo hygiene
+.DS_Store
+node_modules/
+.next/
+.env
+__pycache__/
+*.pyc

@@ -1,11 +1,6 @@
-Flask~=3.0.3
-flask-cors~=5.0.0
-pillow~=10.4.0
-bcrypt~=3.2.0
+fastapi
+uvicorn
+pydantic
 numpy
-tensorflow
-matplotlib
 pandas
-python-dotenv
-pymongo>=4.3.3
-pymongo[srv]
+scikit-learn
